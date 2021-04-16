@@ -1,0 +1,68 @@
+body {
+	font-family: "Franklin Gothic", "Libre Franklin", Helvetica, Droid Sans, sans-serif;
+}
+
+.bg-dark {
+	background-color: #333333 !important;
+}
+
+.btn-primary {
+	background-color: #3ea6b2;
+	border-color: #3ea6b2;
+}
+
+.cs-detail h3 {
+	color: #f86d67;
+	font-size: 1.25rem;
+}
+
+.cs-detail h2 {
+	color: #0070a2;
+	font-weight: 600;
+}
+
+.cs-tooltip {
+	background-color: white;
+	border: 1px solid #003360;
+	padding: 5px;
+	font-size: 0.75rem;
+	position:absolute; 
+	left:0; 
+	top:0;
+	display: none;
+}
+
+.cs-tooltip h4 {
+	color: #0070a2;
+	font-weight: 600;
+	font-size: 0.85rem;
+	margin-bottom: 0.1rem;
+}
+
+.cs-tooltip h5 {
+	font-size: 0.75rem;
+	font-style: italic;
+	font-weight: normal;
+	color: #f86d67;
+}
+
+.cs-tooltip p {
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+.kpi {
+	padding: 10px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+.kpi > div {
+	padding: 10px;
+}
+
+.kpi p {
+	font-size:2.5rem;
+	margin-bottom: 0;
+}
